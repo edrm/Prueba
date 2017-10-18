@@ -45,8 +45,8 @@ class Cita extends \yii\db\ActiveRecord
         return [
             'id' => 'ID',
             'objetivo' => 'Objetivo',
-            'bitAcompaniapapa' => 'Bit Acompaniapapa',
-            'nroAsistente' => 'Nro Asistente',
+            'bitAcompaniapapa' => 'Es Acompañado por Papa',
+            'nroAsistente' => 'Nro Asistentes',
             'fecha' => 'Fecha',
             'hora' => 'Hora',
         ];
